@@ -1,0 +1,23 @@
+＃コンパイルされたクラスファイル
+*。クラス
+
+＃パッケージファイル＃
+* .jar
+*。戦争
+*。耳
+
+＃Maven
+目標/
+
+＃日食
+.classpath
+。事業
+。設定/
+建てる/
+
+＃OSファイル
+Thumbs.db
+.DS_Store
+
+＃アプリケーションのプロパティ
+WebContent / META-INF / application.properties
